@@ -1,0 +1,89 @@
+[
+	{
+		"id": 1,
+		"text": "用户管理",
+		"state": "open",
+		"children": [
+			{
+				"id": 11,
+				"text": "用户管理",
+				"url": "userList.jsp"
+			},
+			{
+				"id": 12,
+				"text": "用户审核",
+				"url": "userCheck.jsp"
+			},
+			{
+				"id": 12,
+				"text": "用户排名"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"text": "试卷管理",
+		"state": "open",
+		"children": [
+			{
+				"id": 11,
+				"text": "试卷管理",
+				"url": "testpaperList.jsp"
+			},
+			{
+				"id": 12,
+				"text": "试卷审核"
+			},
+			{
+				"id": 12,
+				"text": "试卷批阅"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"text": "题目管理",
+		"state": "open",
+		"children": [
+			{
+				"id": 11,
+				"text": "题目管理",
+				"url": "questionsList.jsp"
+			},
+			{
+				"id": 12,
+				"text": "题目审核",
+				"url": "subjectAudit.jsp"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"text": "科目管理",
+		"state": "open",
+		"children": [
+			{
+				"id": 11,
+				"text": "科目管理",
+				"url": "subjectList.jsp"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"text": "系统管理",
+		"state": "open",
+		"children": [
+			{
+				"id": 11,
+				"text": "系统日志",
+				"url": "systemLog.jsp"
+			},
+			{
+				"id": 12,
+				"text": "关于",
+				"url": "about.jsp"
+			}
+		]
+	}
+]

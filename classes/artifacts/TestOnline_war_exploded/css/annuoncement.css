@@ -1,0 +1,60 @@
+
+
+*{
+        margin: 0px;
+        padding: 0px;
+    }
+
+#bigbig-div-announ{
+	
+	height: 100%;
+	
+	margin:  auto;
+	
+}
+#xito-div{
+	padding-top:100px ;
+	font-size: 3.125rem;
+	font-weight: bolder;
+	text-align: center;
+}
+#big-cent-div-announ{
+
+	margin: auto;
+	
+	height: 70%;
+}
+#big-cent-div-announ-top{
+	background-color: royalblue;
+	height: 80px;
+}
+#big-cent-div-announ-body{
+	border: 1px solid blue;
+	height: 90%;
+	width: 60%;
+	margin-left:22%;
+}
+
+#big-ceng-div-announ-log{
+	color: white;
+	font-size:18px;
+	/* margin-left:18%; */
+	padding-top:13px ;
+	
+}
+#big-ceng-div-announ-log a{
+	color: beige;
+	text-decoration: none;
+	line-height: 100%;
+}
+#big-ceng-div-announ-log:first-child{
+	padding-top:50px ;
+}
+
+#ul_content{
+	
+}
+
+
+
+#announDate a:hover{color:red}

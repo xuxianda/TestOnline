@@ -1,0 +1,70 @@
+@charset "UTF-8";
+	body{
+			margin: 0;
+		}
+		div{
+		}
+		#div1{
+			/* border-style:solid;
+			border-width:1px; */
+		   width:300px;
+		   height: 350px;
+		   background-color: white;
+		   position:fixed;
+		   top:30%;
+		   right:25%;
+	}
+		#no{
+			position:fixed;
+			top:10%;
+			right:25%;
+		}
+		#span1{
+			
+			
+		}
+		#cent{
+			padding-top: 20px;
+		    font-size:1rem;
+			text-align:center;
+			width: 80%;
+	    	float:left;
+			
+		}
+		#t-temp{
+			width:20%;
+			border-radius: 0px 0px 0px 150px;
+			padding-top:1px;
+			text-align:right;
+			float: right;
+			height: 40px;
+		}
+		#login-tops{
+			height: 40px;
+		}
+		
+		#login_username{
+			margin:30px 10px 10px 20px;
+		}
+		#login_password{
+			margin:30px 10px 30px 20px;
+		}
+		#login-submit{
+			margin-left: 20px;
+	
+		}
+		#inputAccount{
+			margin:30px 10px 0px 20px;
+		}
+		#inputPassword{
+			margin:30px 10px 0px 20px;
+		}
+		#inputUserName{
+			margin:30px 10px 0px 20px;
+		}
+		#Re{
+			text-align: left;
+		}
+		#inputRadio{
+			margin:30px 10px 0px 20px;
+		}
